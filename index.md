@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Kinichiブログ"
 ---
 
-I'm glad you are here. I plan to talk about ...
+これは __index.md__の中身である。
